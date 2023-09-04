@@ -1,0 +1,3 @@
+/home/hqh/Desktop/C++Proj/ProtobufDemo/build/CMakeFiles/rebuild_cache.dir
+/home/hqh/Desktop/C++Proj/ProtobufDemo/build/CMakeFiles/protoctest.dir
+/home/hqh/Desktop/C++Proj/ProtobufDemo/build/CMakeFiles/edit_cache.dir

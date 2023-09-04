@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/protoctest.dir/book.pb.cc.o CMakeFiles/protoctest.dir/main.cpp.o  -o protoctest -lprotobuf 
